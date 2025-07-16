@@ -1,11 +1,10 @@
 # 💻 Bem-vindo(a) ao meu perfil!
 Estudante de Análise e Desenvolvimento de Sistemas - IFRN | Estagiária de Desenvolvimento Web | Apaixonada por tecnologia e backend
 
-- 👋 Hi, I’m @IzadoraFernandes
-- 👀 I’m interested in programação e desenvolvimento web;
-- 🌱 I’m currently learning programação, Html, Css, Python, Django e Php;
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: telefone 84 981176196; e-mail: Izadorafernandesms@gmail.com; Izadorasilvams@gmail.com
+- 👋 Oi, eu sou @IzadoraFernandes
+- 👀 Tenho interesse em programação, backend e desenvolvimento web;
+- 💞️ Atualmente estagiando na NovaData;
+- 📫 Contato: telefone 84 981176196; e-mail: Izadorafernandesms@gmail.com; Izadorasilvams@gmail.com
 
 
 <div align="center">
